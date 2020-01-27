@@ -1,0 +1,11 @@
+{
+	"employee": {
+		"name": "Saketh Balijepalli",
+		"DOB": "24th May 1984",
+		"Hobbies": ["Hiking", "Cricket"],
+		"Job Deatils": [{
+			"Job Title": "Data Integration Strategist",
+			"Employer": "Oregon State University Foundation"
+		}]
+	}
+}
